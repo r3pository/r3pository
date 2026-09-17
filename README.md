@@ -15,3 +15,9 @@ User       : marshally
 Focusing   : full stack + cybersecurity
 Learning   : web • linux • networking • systems
 Status     : building...
+
+I'm interested in software, cybersecurity, web development,
+networking, and understanding what happens beneath the surface.
+
+I like learning through experimentation, building things,
+and figuring out why they work.
