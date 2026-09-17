@@ -24,3 +24,12 @@ and figuring out why they work.
 
 ```
 ## `> Currently Learning`
+
+```text
+| 🔐 Cybersecurity | 💻 Development        |
+| ---------------- | ---------------------- |
+| Web Security     | Full Stack Development |
+| Linux            | JavaScript             |
+| Networking       | TypeScript             |
+| Ethical Hacking  | Python                 |
+| Systems          | Roblox / Lua           |
