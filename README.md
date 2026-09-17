@@ -1,4 +1,5 @@
-![Uploading ChatGPT Image Sep 17, 2026, 07_46_42 PM.png…]()
+<img width="2172" height="724" alt="ChatGPT Image Sep 17, 2026, 07_46_42 PM" src="https://github.com/user-attachments/assets/3f34fd70-3989-49e0-8664-002fb7927aa8" />
+
 # Meow, It's Schlep
 
 `Full Stack Developer` • `Cybersecurity` • `Roblox Dev (Soon!)`
