@@ -1,4 +1,4 @@
-# MARSHALLY
+# Meow, It's Schlep
 
 `Full Stack Developer` • `Cybersecurity` • `Roblox Dev (Soon!)`
 
@@ -11,7 +11,7 @@
 ## `> whoami`
 
 ```text
-user       : marshally
-focus      : full stack + cybersecurity
-learning   : web • linux • networking • systems
-status     : building...
+User       : marshally
+Focusing   : full stack + cybersecurity
+Learning   : web • linux • networking • systems
+Status     : building...
