@@ -32,3 +32,6 @@ and figuring out why they work.
 | Networking | TypeScript |
 | Ethical Hacking | Python |
 | Systems | Roblox / Lua |
+
+
+(that's currently all lol, love you!)
