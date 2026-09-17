@@ -8,7 +8,7 @@
 
 ---
 
-## `> whoami`
+## `> info`
 
 ```text
 User       : marshally
