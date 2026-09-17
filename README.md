@@ -2,10 +2,10 @@
 
 # `Meow, Schlep Here.`
 
-### `Full Stack Developer` · `Cybersecurity` · `Roblox Developer`
+### Future `Full Stack Developer` · `Cybersecurity` · `Roblox Developer`
 
 ```text
 > curiosity.exe
-> building systems
-> breaking systems
+> fart
+> i love my friends
 > understanding how they work
