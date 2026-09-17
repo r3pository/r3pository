@@ -15,7 +15,7 @@
 ## `> info`
 
 ```text
-User       : marshally
+User       : Schlep, Schlep, Schlep
 Focusing   : full stack + cybersecurity
 Learning   : web • linux • networking • systems
 Status     : building...
