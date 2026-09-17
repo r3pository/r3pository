@@ -22,10 +22,5 @@ networking, and understanding what happens beneath the surface.
 I like learning through experimentation, building things,
 and figuring out why they work.
 
-> currently learning
-🔐 Cybersecurity	💻 Development
-Web Security	Full Stack Development
-Linux	JavaScript
-Networking	TypeScript
-Ethical Hacking	Python
-Systems	Roblox / Lua
+```
+## `> Currently Learning`
