@@ -1,6 +1,6 @@
 <div align="center">
 
-# `meow, Schlep Here.`
+# `Meow, Schlep Here.`
 
 ### `Full Stack Developer` · `Cybersecurity` · `Roblox Developer`
 
