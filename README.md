@@ -1,3 +1,4 @@
+![Uploading ChatGPT Image Sep 17, 2026, 07_46_42 PM.png…]()
 # Meow, It's Schlep
 
 `Full Stack Developer` • `Cybersecurity` • `Roblox Dev (Soon!)`
